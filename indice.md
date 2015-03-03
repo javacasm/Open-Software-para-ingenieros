@@ -18,6 +18,7 @@
 * Herramientas de cálculo: Octave
 ![octave](http://mcx.sourceforge.net/upload/octave_mcxlab.png)
 * Herramientas de programación: python
+* Simulación de fluidos: [OpenFoam](http://www.openfoam.com/)
 ## Diseño en 3D (10 horas)
 
 ### Diseño e impresión en 3D 
@@ -26,5 +27,9 @@
 * Herramientas de diseño en 3D
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg)
 * Aplicaciones para ingeniería
-![sydney hardbour bridge](https://c4.staticflickr.com/8/7369/9148811913_5e6288750d_n.jpg)
-![osrEngine](OSREngine.png)
+	* Arquitectura 
+	![sydney hardbour bridge](https://c4.staticflickr.com/8/7369/9148811913_5e6288750d_n.jpg)
+	* Motores ([diseños](https://github.com/gNSortino/OSREngines))
+	![osrEngine](OSREngine.png)
+	* Maquetas de máquinas ([modelo](http://www.thingiverse.com/thing:644933))
+	![toyota](http://thingiverse-production-new.s3.amazonaws.com/renders/09/c5/6c/6e/da/IMG_0848_preview_featured.JPG)
