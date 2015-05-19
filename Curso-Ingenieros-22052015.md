@@ -18,6 +18,12 @@
 
 #### Teoría
 
+* Precisión
+* Exactitud
+* Nº bits
+* Rango
+* PGA
+
 #### Ejemplos prácticos
 
 * Arduino
@@ -26,4 +32,8 @@
 
 
 #### Comparación con LabView
+
+[Usando arduino con labview](https://geekytheory.com/arduino-y-labview/)
+[Voltímetro con arduino y labview](https://geekytheory.com/labview-arduino-voltimetro/)
+[Arduino y matlab](https://geekytheory.com/matlab-arduino-serial-port-communication/)
 

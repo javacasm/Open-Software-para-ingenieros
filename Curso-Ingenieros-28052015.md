@@ -4,22 +4,50 @@
 ## Diseño en 3D (10 horas)
 
 ### Diseño e impresión en 3D 
+
 * Impresión en 3D: equipos y tecnologías
+
+
+#### Impresoras 3D
+
+##### Tecnologías:
+	* FDM (FFF): La tecnología FDM estaba protegida por patente y nació una tecnología que en esencia es similar, Fused Filament Fabrication (FFF) que hemos visto en impresoras como RepRap.
+	![FFF](http://i.blogs.es/c48dd9/650_1000_300px-fdm_by_zureks/450_1000.png)
+	* SLA
+	* SLS
+	* DLP
+[tecnologías](http://www.xataka.com/perifericos/estas-son-las-tecnologias-de-impresion-3d-que-hay-sobre-la-mesa-y-lo-que-puedes-esperar-de-ellas)
+[impresión 3d](http://es.wikipedia.org/wiki/Impresi%C3%B3n_3D)
+
+##### Geometrías:
+
+Origen: el CNC
+
+* RepRap:
+	* i2
+	* i3
+	* Corexy
+
+* Delta
 ![reprap delta](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/delta-robot-reprap-helium-frog.jpg)
 
-* Herramientas de diseño en 3D
+##### Filamentos
+
+* ABS: 240º
+* PLA: 190º
+* Nylon: 260º
+
+#### Resoluciones
+
+
+### Fresadoras
+
+Cyclone
+
+#### Herramientas de diseño en 3D
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg)
 
 
-* Aplicaciones para ingeniería
-	* Arquitectura 
-	![sydney hardbour bridge](https://c4.staticflickr.com/8/7369/9148811913_5e6288750d_n.jpg)
-	* Motores ([diseños](https://github.com/gNSortino/OSREngines))
-	![osrEngine](OSREngine.png)
-	* Maquetas de máquinas ([modelo](http://www.thingiverse.com/thing:644933))
-	![toyota](http://thingiverse-production-new.s3.amazonaws.com/renders/09/c5/6c/6e/da/IMG_0848_preview_featured.JPG)
-	* ¿Máquinas de laboratorio open-source? [Medida de resistencia](http://3dprint.com/57992/testrbot-3d-print-testing/)
-	![maquina](http://3dprint.com/wp-content/uploads/2015/04/test.png)
-
 
 * Robots por todas partes
+	* Automatización
