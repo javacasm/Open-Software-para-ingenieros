@@ -1,25 +1,6 @@
 
 # Herramientas open-source de programación y 3D para ingeniería 
 
-## Sistemas de adquisición de datos open-source (10 horas)
-
-### Open Hardware 
-* [Arduino](http://arduino.cc)
-* [Raspberry](http://raspberry.org)
-![raspberry](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRewkIkzuGGdt-ufFPAb3JdbnDVFT545gpviI3T6fFP1d0F8z-s)
-
-### Proyectos open-source 
-* ¿Por qué hacer open-source mi proyecto?
-* Repositorios de proyectos y desarrollo colaborativo
-* Ejemplos de proyectos: [Ardusat](http://en.wikipedia.org/wiki/ArduSat), [RepRap](reprap.org/)	
-![ardusat](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ArduSat3.png/390px-ArduSat3.png)
-
-### Herramientas de cálculo y Programación
-* Herramientas de cálculo: Octave
-![octave](http://mcx.sourceforge.net/upload/octave_mcxlab.png)
-* Herramientas de programación: python
-* Simulación de fluidos: [OpenFoam](http://www.openfoam.com/)
-
 ## Diseño en 3D (10 horas)
 
 ### Diseño e impresión en 3D 
