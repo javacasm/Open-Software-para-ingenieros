@@ -19,6 +19,7 @@
 ![octave](http://mcx.sourceforge.net/upload/octave_mcxlab.png)
 * Herramientas de programación: python
 * Simulación de fluidos: [OpenFoam](http://www.openfoam.com/)
+
 ## Diseño en 3D (10 horas)
 
 ### Diseño e impresión en 3D 
