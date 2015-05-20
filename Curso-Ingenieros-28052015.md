@@ -31,6 +31,7 @@
 Origen: el CNC
 
 * RepRap:
+![reprap](http://reprap.org/mediawiki/images/thumb/1/1f/Mendel.jpg/800px-Mendel.jpg)
 	* i2
 	* i3
 	* Corexy
@@ -41,7 +42,7 @@ Origen: el CNC
 
 ### Modelos comerciales
 
-makerbot
+Makerbot ![makerbot](http://store.makerbot.com/mb-images/store/global/international.jpg)
 ultimaker
 bq
 
@@ -75,6 +76,8 @@ Cyclone
 
 
 #### Herramientas de diseño en 3D
+
+![cad](http://www.deelip.com/images/2010-08-11-001.gif)
 
 * [FreeCad](http://www.freecadweb.org/)
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg) [Tutorial rápido](http://spainlabs.com/wiki/index.php?title=Tutorial_r%C3%A1pido_de_FreeCad) [videotutoriales](http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad)
