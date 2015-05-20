@@ -14,6 +14,8 @@
 
 * [Tutorial](http://javacasm.github.io//Aprendiendo-a-usar-R/ )
 
+[Mathematica gratis en Raspberry Pi](http://www.wolfram.com/raspberry-pi/)
+
 ### Usando ADCs
 
 #### Teoría
