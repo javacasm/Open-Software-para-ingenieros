@@ -4,6 +4,9 @@
 ## Sistemas de adquisición de datos open-source
 
 ### Open Hardware 
+
+### Plataformas
+
 #### [Arduino](http://arduino.cc)
 
 * Capacidades
@@ -29,6 +32,8 @@
 * ....
 
 #### ¿Cuál elegir?
+
+
 
 
 ### Proyectos open-source 
