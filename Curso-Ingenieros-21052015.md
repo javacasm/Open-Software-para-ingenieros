@@ -71,23 +71,37 @@ Linux como máximo ejemplo:
 
 ### Open Hardware 
 
+#### ¿Qué es el Open Hardware?
+
 ### Plataformas
 
 #### [Arduino](http://arduino.cc)
 
-¿ Qué es arduino? ([tutorial](http://spainlabs.com/wiki/index.php?title=Arduino))
+![arduino](http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
+
+#### ¿ Qué es arduino? 
+
+([tutorial](http://spainlabs.com/wiki/index.php?title=Arduino))
 
 * Capacidades
 * Virtudes
 * Limitaciones
 
+##### Clónicos
+
+![freaduino](http://www.mathias-wilhelm.de/arduino/assets/boards/Slide1cr.jpg)
+(Historias...)
+
+* * *
 #### [Raspberry](http://raspberry.org)
 
+![raspberry](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRewkIkzuGGdt-ufFPAb3JdbnDVFT545gpviI3T6fFP1d0F8z-s)
+
 * Capacidades
 * Virtudes
 * Limitaciones
 
-![raspberry](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRewkIkzuGGdt-ufFPAb3JdbnDVFT545gpviI3T6fFP1d0F8z-s)
+
 
 #### Otras alternativas
 
