@@ -12,11 +12,12 @@
 	![osrEngine](OSREngine.png)
 	* Maquetas de máquinas ([modelo](http://www.thingiverse.com/thing:644933))
 	![toyota](http://thingiverse-production-new.s3.amazonaws.com/renders/09/c5/6c/6e/da/IMG_0848_preview_featured.JPG)
+	![cambio automático](http://thingiverse-production.s3.amazonaws.com/renders/26/14/39/6f/c3/transmission4_preview_featured.jpg)[modelo](http://www.thingiverse.com/thing:34778)[vídeo](https://www.youtube.com/watch?v=-FyC3dn3HJY)
 	* ¿Máquinas de laboratorio open-source? [Medida de resistencia](http://3dprint.com/57992/testrbot-3d-print-testing/)
 	![maquina](http://3dprint.com/wp-content/uploads/2015/04/test.png)
 	![Réplica de una turbina de avión](http://3dprint.com/wp-content/uploads/2014/10/jets1.jpg) [modelo](https://www.thingiverse.com/thing:392115)[ historia del modelo](http://3dprint.com/17716/3d-printed-jet-engine/)
 	![turbina de avión que funciona](http://thingiverse-production.s3.amazonaws.com/renders/f5/fe/54/c3/53/Gerrys_Jet_Engine_preview_featured.jpg)[modelo](http://www.thingiverse.com/thing:114468) [vídeo](https://www.youtube.com/watch?v=6rX4xv5-NvE)
-	![cambio automático](http://thingiverse-production.s3.amazonaws.com/renders/26/14/39/6f/c3/transmission4_preview_featured.jpg)[modelo](http://www.thingiverse.com/thing:34778)[vídeo](https://www.youtube.com/watch?v=-FyC3dn3HJY)
+	![modelo pequeño de turbina](http://3dprint.com/wp-content/uploads/2014/07/buildyourown5.gif) [modelo](https://www.thingiverse.com/thing:392115) [descripción del proyecto]
 
 ### Ejemplo: una turbina
 
@@ -28,10 +29,6 @@ Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:7
 
 
 
-#### Simulaciones: 
-	
-	* Robots en freecad
-	
 
 #### Imprimiendo
 
@@ -48,3 +45,9 @@ Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:7
 * Cura
 * Pronterface
 * Repetizer
+
+
+#### Repositorios
+
+https://www.youmagine.com
+http://www.thingivese.com

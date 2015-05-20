@@ -3,6 +3,55 @@
 
 ## Sistemas de adquisición de datos open-source
 
+
+### Una historia
+
+Joris van Tubergen quería imprimir un elefante
+
+Las impresoras actuales tienen un tamaño de 20 cm x 20 cm
+
+Pero él lo quería imprimir a tamaño real...
+
+Instrucciones:
+
+![paso 1](https://s3.amazonaws.com/ksr/assets/003/369/127/05f2499c4baf87ab9c8456f4a87ec7b0_large.png?1425318983)
+
+![resultado](https://ultimaker.com/photo/image/0x0/54f6f48ef2055.jpg)
+
+[vídeo](https://vimeo.com/118596199)
+
+
+
+**¿por qué pudo hacer esto?**
+
+* Tenía el [diseño completo](https://www.youmagine.com/designs/ultimaker-2-source-files) de su impresora. Podía imprimir [todas las piezas](https://www.youmagine.com/designs/ultimaker-2-source-files) o modificarlas ...
+
+* Tenía todo el [código fuente del firmware](https://github.com/Ultimaker/Ultimaker2Marlin) de la impresora
+
+* Tenía todo el [código fuente del software de control](https://github.com/Ultimaker/CuraEngine) de la impresora
+
+
+
+[Si quieres leer la historia completa](https://ultimaker.com/en/stories/view/97-printing-out-of-the-box)
+
+
+### Rentabilidad del modelo
+
+* Hardware
+* Formación
+* Soporte
+* Desarrollo de proyectos
+
+
+### Open software
+
+Linux como máximo ejemplo:
+
+* Empezó siendo una frikada-docente (sustituo de minix)
+* Hoy en día el sistema operativo más usado en los servidores en internet
+* Estamos rodeado de linux o sus derivados: routers, smartphones, impresoras, ...
+
+
 ### Open Hardware 
 
 ### Plataformas
