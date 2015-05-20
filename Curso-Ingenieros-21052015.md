@@ -10,16 +10,24 @@ Joris van Tubergen quería imprimir un elefante
 
 Las impresoras actuales tienen un tamaño de 20 cm x 20 cm
 
+![ultimaker](http://blog.symoninc.com/wp-content/uploads/2014/11/pokemonme.jpg)
+
 Pero él lo quería imprimir a tamaño real...
+
+Le dio vueltas y finamente ...
+
+![resultado](https://ultimaker.com/photo/image/0x0/54f6f48ef2055.jpg)
+
+![eefante](https://ultimaker.com/photo/image/0x0/54f6f18eb6ff4.jpg)
+
+Además de conseguir imprimirlo creó unas instrucciones para que cualquier pudiera hacerlo
 
 Instrucciones:
 
 ![paso 1](https://s3.amazonaws.com/ksr/assets/003/369/127/05f2499c4baf87ab9c8456f4a87ec7b0_large.png?1425318983)
 
-![resultado](https://ultimaker.com/photo/image/0x0/54f6f48ef2055.jpg)
 
 [vídeo](https://vimeo.com/118596199)
-
 
 
 **¿por qué pudo hacer esto?**
@@ -35,6 +43,9 @@ Instrucciones:
 [Si quieres leer la historia completa](https://ultimaker.com/en/stories/view/97-printing-out-of-the-box)
 
 
+* * * 
+
+
 ### Rentabilidad del modelo
 
 * Hardware
@@ -42,6 +53,7 @@ Instrucciones:
 * Soporte
 * Desarrollo de proyectos
 
+* * * 
 
 ### Open software
 
@@ -51,6 +63,7 @@ Linux como máximo ejemplo:
 * Hoy en día el sistema operativo más usado en los servidores en internet
 * Estamos rodeado de linux o sus derivados: routers, smartphones, impresoras, ...
 
+* * * 
 
 ### Open Hardware 
 
