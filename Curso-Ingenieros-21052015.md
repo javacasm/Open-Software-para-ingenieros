@@ -58,6 +58,8 @@ Linux como máximo ejemplo:
 
 #### [Arduino](http://arduino.cc)
 
+¿ Qué es arduino? ([tutorial](http://spainlabs.com/wiki/index.php?title=Arduino))
+
 * Capacidades
 * Virtudes
 * Limitaciones
@@ -93,6 +95,9 @@ Linux como máximo ejemplo:
 
 ### Por tierra, mar, áire o espacio
 
+* [OSVehicle](http://oshl.edu.umh.es/2015/04/15/osvehicle-un-coche-open-source/)
+![osvehicle](http://oshl.edu.umh.es/wp-content/uploads/sites/371/2015/04/osvehicle-GOOGLE.jpg)
+
 * [OpenRC](http://www.openrcproject.com/tiki-index.php) ([modelo](http://www.thingiverse.com/thing:42198))
 ![openRC](http://thingiverse-production.s3.amazonaws.com/renders/ad/a1/86/d1/dc/IMG_20130513_211521_preview_featured.jpg)
 
@@ -105,7 +110,13 @@ Linux como máximo ejemplo:
 * [Ardusat](https://www.ardusat.com/)
 ![ardusat](https://www.ardusat.com/assets/landing/products/demosat-3f8cdfec8c9a206a414788460f0c7ff6.jpg)
 
-* [Protitpo de sistema de aviso de terremotos](https://hackaday.io/project/5587-earthquake-early-warning-and-monitoring-system)
+* [Desafío Cubesat](https://grabcad.com/challenges/the-additive-cubesat-challenge)
+![cubesat]()
+
+* [NASA quiere una plataforma como cubesat](http://gsfctechnology.gsfc.nasa.gov/Crusader.html)
+![nasa cubesat](http://gsfctechnology.gsfc.nasa.gov/images/MIRCA%20CAPEarticle.jpg)
+
+* [Prototipo de sistema de aviso de terremotos](https://hackaday.io/project/5587-earthquake-early-warning-and-monitoring-system)
 
 ### Redes de sensores
 
