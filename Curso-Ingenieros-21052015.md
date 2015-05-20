@@ -105,3 +105,4 @@ Linux como máximo ejemplo:
 * [Ardusat](https://www.ardusat.com/)
 ![ardusat](https://www.ardusat.com/assets/landing/products/demosat-3f8cdfec8c9a206a414788460f0c7ff6.jpg)
 
+* [Protitpo de sistema de aviso de terremotos](https://hackaday.io/project/5587-earthquake-early-warning-and-monitoring-system)
