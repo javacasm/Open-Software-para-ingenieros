@@ -114,7 +114,7 @@ Existen diferentes tecnologías inalámbricas:
 
 * Zigbee
 
-* nRF24L01
+* nRF24L01 [Creando redes con nRF24L01](http://forcetronic.blogspot.com.es/2015/05/creating-nrf24l01-transceiver-network.html) [vídeo](https://www.youtube.com/watch?v=9IxsJY5e4YY)
 
 * 3DR
 
