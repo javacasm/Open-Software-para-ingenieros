@@ -37,3 +37,32 @@
 [Voltímetro con arduino y labview](https://geekytheory.com/labview-arduino-voltimetro/)
 [Arduino y matlab](https://geekytheory.com/matlab-arduino-serial-port-communication/)
 
+### Leguajes de programación:
+
+* C
+* C++
+* python
+* Perl
+* Visuales (tipo scratch)
+
+
+
+### Entornos de programación
+
+#### Arduino
+
+* bitbloq
+
+* Visualino
+
+* Scratch
+
+
+#### Raspberry
+
+* coder
+
+### Entornos de diseño de placas
+
+* 123d.circuits.io
+* Fritzing
