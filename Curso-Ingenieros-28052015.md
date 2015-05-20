@@ -49,6 +49,8 @@ bq
 * Nylon: 260º
 * Filaflex: 220º
 
+[Plásticos](http://spainlabs.com/wiki/index.php?title=Impresoras_3D)
+
 Composites:
 
 * Madera
@@ -61,7 +63,11 @@ Tamaños, volúmenes,....
 
 ### Fresadoras
 
+[Teoría CNC](http://spainlabs.com/wiki/index.php?title=Fresadoras_CNC)
+
 Cyclone
+
+
 
 #### Herramientas de diseño en 3D
 

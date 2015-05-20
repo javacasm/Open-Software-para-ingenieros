@@ -43,8 +43,9 @@ Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:7
 ###
 
 * Cura
-* Pronterface
-* Repetizer
+* [KISSlicer](http://kisslicer.com/)
+* [Pronterface](http://koti.kapsi.fi/~kliment/printrun/)
+* [Repetier-Host](http://www.repetier.com/download/)
 
 
 #### Repositorios
