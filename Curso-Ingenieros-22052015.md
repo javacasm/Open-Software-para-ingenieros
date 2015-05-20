@@ -17,7 +17,7 @@
 
 ### [RStudio](http://www.rstudio.com)
 
-* [Tutorial](http://javacasm.github.io//Aprendiendo-a-usar-R/ )
+[Tutorial R](./Minitutorial R.pdf)
 
 [Mathematica gratis en Raspberry Pi](http://www.wolfram.com/raspberry-pi/)
 
@@ -66,7 +66,7 @@
 
 * [Visuino](http://www.visuino.com/) ![visuino](http://www.visuino.com/img/screenshot-01-tn.png)
 
-* [Scratch](https://scratch.mit.edu/)
+* [Scratch](https://scratch.mit.edu/) ![Scratch]( http://bilbaodynamics.com/images/s4a_mej.png)
 
 ##### ¿Cuál elegir?
 
