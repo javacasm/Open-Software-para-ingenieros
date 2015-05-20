@@ -22,3 +22,4 @@
 
 [Sensores](./Sensores.pdf)
 
+[MiniTutorial R](./Minitutorial R.pdf)
