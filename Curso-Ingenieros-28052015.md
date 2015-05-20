@@ -36,18 +36,46 @@ Origen: el CNC
 * ABS: 240º
 * PLA: 190º
 * Nylon: 260º
+* Filaflex: 220º
+
+Composites:
+
+* Madera
+* Bronce
+* ...
 
 #### Resoluciones
 
+Tamaños, volúmenes,....
 
 ### Fresadoras
 
 Cyclone
 
 #### Herramientas de diseño en 3D
+
 ![freecad](http://jeromeabel.net/files/ressources/democratie-industrielle/bonus-images/fab/FreeCAD_aeroponic_system.jpg)
 
+123d studio
+
+Tinkercad
+
+Blender
+
+Netlab
+
+#### Formatos de impresión
+
+STL
+
+Gcode
+
+#### Simulaciones: 
+	
+	* Robots en freecad
 
 
 * Robots por todas partes
 	* Automatización
+
+	
