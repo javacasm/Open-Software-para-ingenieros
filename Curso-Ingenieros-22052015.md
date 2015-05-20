@@ -1,5 +1,10 @@
-
 # Herramientas open-source de programación y 3D para ingeniería 
+
+### 20-29 Mayo de 2015
+
+### José Antonio Vacas @javacasm
+![CCbySA](imagenes/CCbySQ_88x31.png)
+
 
 ## Sistemas de adquisición de datos open-source 
 
