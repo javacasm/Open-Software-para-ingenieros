@@ -106,3 +106,25 @@ Linux como máximo ejemplo:
 ![ardusat](https://www.ardusat.com/assets/landing/products/demosat-3f8cdfec8c9a206a414788460f0c7ff6.jpg)
 
 * [Protitpo de sistema de aviso de terremotos](https://hackaday.io/project/5587-earthquake-early-warning-and-monitoring-system)
+
+### Redes de sensores
+
+
+Existen diferentes tecnologías inalámbricas:
+
+* Zigbee
+
+* nRF24L01
+
+* 3DR
+
+
+### Cómo se hacen prototipos:
+
+TIRAR DE LAS PRESENTACIONES DEL CEP
+
+* Módulos electrónica
+
+* Módulos de programación
+
+* Diseño 3D
