@@ -26,7 +26,6 @@ Le dio vueltas y finamente ...
 
 Además de conseguir imprimirlo creó unas instrucciones para que cualquier pudiera hacerlo
 
-Instrucciones:
 
 ![paso 1](https://s3.amazonaws.com/ksr/assets/003/369/127/05f2499c4baf87ab9c8456f4a87ec7b0_large.png?1425318983)
 
@@ -44,13 +43,13 @@ Instrucciones:
 
 
 
-[Si quieres leer la historia completa](https://ultimaker.com/en/stories/view/97-printing-out-of-the-box)
+([Si quieres leer la historia completa](https://ultimaker.com/en/stories/view/97-printing-out-of-the-box))	
 
 
 * * * 
 
 
-### Rentabilidad del modelo
+### Rentabilidad del modelo Open-source
 
 * Hardware
 * Formación
@@ -95,13 +94,13 @@ Linux como máximo ejemplo:
 * * *
 #### [Raspberry](http://raspberry.org)
 
-![raspberry](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRewkIkzuGGdt-ufFPAb3JdbnDVFT545gpviI3T6fFP1d0F8z-s)
+![raspberry](http://www.raspberrypi.org/wp-content/uploads/2014/07/rsz_b-.jpg)
 
 * Capacidades
 * Virtudes
 * Limitaciones
 
-
+* * *
 
 #### Otras alternativas
 
@@ -115,10 +114,15 @@ Linux como máximo ejemplo:
 
 #### ¿Cuál elegir?
 
+* Coste
+* Potencia de cálculo
+* Robustez
 
 
+* * *
 
 ### Proyectos open-source 
+
 * ¿Por qué hacer open-source mi proyecto?
 * Repositorios de proyectos y desarrollo colaborativo
 * Ejemplos de proyectos: [Ardusat](http://en.wikipedia.org/wiki/ArduSat), [RepRap](reprap.org/)	
