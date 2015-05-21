@@ -25,3 +25,7 @@
 [MiniTutorial R](./Minitutorial R.pdf)
 
 [Introducción a Arduino](./Introduccion Arduino.pdf)
+
+[Programando Arduino](./cursoArduino/curso arduino basico.md)
+
+[Raspberry](Raspberry.md)
