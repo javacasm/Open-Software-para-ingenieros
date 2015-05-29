@@ -55,5 +55,5 @@ Finalmente vemos un [modelo que nos interesa](http://www.thingiverse.com/thing:7
 #### Repositorios
 
 [youimagine](https://www.youmagine.com)
-[Thingiverse](http://www.thingivese.com)
+[Thingiverse](http://www.thingiverse.com)
 [yeggi](http://www.yeggi.com/)
